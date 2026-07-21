@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0F172A,100:1D4ED8&height=190&section=header&text=Muhammad Umar&fontSize=44&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%20%26%20Machine%20Learning%20Engineer&descAlignY=62&descSize=18&descColor=93C5FD" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:020617,40:0F172A,100:1D4ED8&amp;height=190&amp;section=header&amp;text=Muhammad%20Umar&amp;fontSize=44&amp;fontColor=F8FAFC&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Data%20Scientist%20%7C%20AI%20%26%20Machine%20Learning%20Engineer&amp;descAlignY=62&amp;descSize=18&amp;descColor=93C5FD" alt="header"/>
 
 <br/>
 
@@ -10,21 +10,21 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/PYTHON-2E3440?style=flat-square&logo=python&logoColor=3776AB" height="26"/>
-<img src="https://img.shields.io/badge/SQL-2E3440?style=flat-square&logo=postgresql&logoColor=4169E1" height="26"/>
-<img src="https://img.shields.io/badge/POWER%20BI-2E3440?style=flat-square&logo=powerbi&logoColor=F2C811" height="26"/>
-<img src="https://img.shields.io/badge/TENSORFLOW-2E3440?style=flat-square&logo=tensorflow&logoColor=FF6F00" height="26"/>
-<img src="https://img.shields.io/badge/SCIKIT--LEARN-2E3440?style=flat-square&logo=scikitlearn&logoColor=F7931E" height="26"/>
+<img src="https://img.shields.io/badge/PYTHON-2E3440?style=flat-square&amp;logo=python&amp;logoColor=3776AB" height="26"/>
+<img src="https://img.shields.io/badge/SQL-2E3440?style=flat-square&amp;logo=postgresql&amp;logoColor=4169E1" height="26"/>
+<img src="https://img.shields.io/badge/POWER%20BI-2E3440?style=flat-square&amp;logo=powerbi&amp;logoColor=F2C811" height="26"/>
+<img src="https://img.shields.io/badge/TENSORFLOW-2E3440?style=flat-square&amp;logo=tensorflow&amp;logoColor=FF6F00" height="26"/>
+<img src="https://img.shields.io/badge/SCIKIT--LEARN-2E3440?style=flat-square&amp;logo=scikitlearn&amp;logoColor=F7931E" height="26"/>
 
 <br/><br/>
 
-<a href="mailto:muhammadumarjamali0@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white" height="24"/></a>
-<a href="https://www.linkedin.com/in/muhammad-umar-490605223"><img src="https://img.shields.io/badge/LinkedIn-333333?style=flat-square&logo=linkedin&logoColor=0A66C2" height="24"/></a>
-<a href="https://github.com/umarali8"><img src="https://img.shields.io/badge/Portfolio-333333?style=flat-square&logo=vercel&logoColor=white" height="24"/></a>
-<a href="https://www.kaggle.com/umarali2005"><img src="https://img.shields.io/badge/Kaggle-333333?style=flat-square&logo=kaggle&logoColor=20BEFF" height="24"/></a>
-<a href="https://medium.com/@muhammadumarjamali0"><img src="https://img.shields.io/badge/Medium-333333?style=flat-square&logo=medium&logoColor=white" height="24"/></a>
+<a href="mailto:muhammadumarjamali0@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=flat-square&amp;logo=gmail&amp;logoColor=white" height="24"/></a>
+<a href="https://www.linkedin.com/in/muhammad-umar-490605223"><img src="https://img.shields.io/badge/LinkedIn-333333?style=flat-square&amp;logo=linkedin&amp;logoColor=0A66C2" height="24"/></a>
+<a href="https://github.com/umarali8"><img src="https://img.shields.io/badge/Portfolio-333333?style=flat-square&amp;logo=vercel&amp;logoColor=white" height="24"/></a>
+<a href="https://www.kaggle.com/umarali2005"><img src="https://img.shields.io/badge/Kaggle-333333?style=flat-square&amp;logo=kaggle&amp;logoColor=20BEFF" height="24"/></a>
+<a href="https://medium.com/@muhammadumarjamali0"><img src="https://img.shields.io/badge/Medium-333333?style=flat-square&amp;logo=medium&amp;logoColor=white" height="24"/></a>
 
-<sub><img src="https://komarev.com/ghpvc/?username=umarali8&label=Profile+Views&color=333333&style=flat-square"/></sub>
+<sub><img src="https://komarev.com/ghpvc/?username=umarali8&amp;label=Profile+Views&amp;color=333333&amp;style=flat-square"/></sub>
 
 </div>
 
@@ -57,22 +57,22 @@ I hold myself to one standard: every model, dashboard, or analysis must connect 
 
 <table width="100%">
 <tr><td width="18%"><b>Programming</b></td><td>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&amp;logo=postgresql&amp;logoColor=white"/>
 </td></tr>
 <tr><td><b>Data Analysis</b></td><td>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&amp;logo=pandas&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&amp;logo=numpy&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&amp;logo=scipy&amp;logoColor=white"/>
 </td></tr>
 <tr><td><b>Visualization</b></td><td>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&amp;logo=powerbi&amp;logoColor=black"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
 <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&amp;logo=plotly&amp;logoColor=white"/>
 </td></tr>
 <tr><td><b>Machine Learning</b></td><td>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&amp;logo=scikitlearn&amp;logoColor=white"/>
 <img src="https://img.shields.io/badge/XGBoost-006ACC?style=flat-square"/>
 <img src="https://img.shields.io/badge/Random%20Forest-2E8B57?style=flat-square"/>
 <img src="https://img.shields.io/badge/Decision%20Trees-556B2F?style=flat-square"/>
@@ -82,22 +82,22 @@ I hold myself to one standard: every model, dashboard, or analysis must connect 
 <img src="https://img.shields.io/badge/Regression-6A5ACD?style=flat-square"/>
 </td></tr>
 <tr><td><b>Deep Learning</b></td><td>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&amp;logo=tensorflow&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&amp;logo=keras&amp;logoColor=white"/>
 <img src="https://img.shields.io/badge/CNN-37474F?style=flat-square"/>
 <img src="https://img.shields.io/badge/RNN-37474F?style=flat-square"/>
 <img src="https://img.shields.io/badge/ANN-37474F?style=flat-square"/>
 </td></tr>
 <tr><td><b>Database</b></td><td>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white"/>
 </td></tr>
 <tr><td><b>Tools</b></td><td>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&amp;logo=visualstudiocode&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&amp;logo=jupyter&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&amp;logo=microsoftexcel&amp;logoColor=white"/>
 </td></tr>
 </table>
 
@@ -186,17 +186,17 @@ I hold myself to one standard: every model, dashboard, or analysis must connect 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=umarali8&show_icons=true&theme=dark&hide_border=true&title_color=8B949E&text_color=C9D1D9&icon_color=58A6FF&bg_color=0D1117"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=umarali8&amp;show_icons=true&amp;theme=dark&amp;hide_border=true&amp;title_color=8B949E&amp;text_color=C9D1D9&amp;icon_color=58A6FF&amp;bg_color=0D1117"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarali8&layout=compact&theme=dark&hide_border=true&title_color=8B949E&text_color=C9D1D9&bg_color=0D1117"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarali8&amp;layout=compact&amp;theme=dark&amp;hide_border=true&amp;title_color=8B949E&amp;text_color=C9D1D9&amp;bg_color=0D1117"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=umarali8&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=umarali8&amp;theme=dark&amp;hide_border=true&amp;background=0D1117&amp;ring=58A6FF&amp;fire=58A6FF&amp;currStreakLabel=C9D1D9"/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=umarali8&theme=github-compact&hide_border=true&bg_color=0D1117"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=umarali8&amp;theme=github-compact&amp;hide_border=true&amp;bg_color=0D1117"/>
 
 <img width="100%" src="https://raw.githubusercontent.com/umarali8/umarali8/output/github-contribution-grid-snake-dark.svg"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=umarali8&theme=darkhub&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=umarali8&amp;theme=darkhub&amp;no-frame=true&amp;row=1&amp;column=6"/>
 
 </div>
 
@@ -222,12 +222,12 @@ I hold myself to one standard: every model, dashboard, or analysis must connect 
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Generative%20AI-1D4ED8?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Large%20Language%20Models-1D4ED8?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI%20Agents-1D4ED8?style=for-the-badge&logo=robotframework&logoColor=white"/>
-<img src="https://img.shields.io/badge/MLOps-1D4ED8?style=for-the-badge&logo=mlflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/NLP-1D4ED8?style=for-the-badge&logo=googlecolab&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cloud%20Computing-1D4ED8?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Generative%20AI-1D4ED8?style=for-the-badge&amp;logo=openai&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Large%20Language%20Models-1D4ED8?style=for-the-badge&amp;logo=googlegemini&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20Agents-1D4ED8?style=for-the-badge&amp;logo=robotframework&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/MLOps-1D4ED8?style=for-the-badge&amp;logo=mlflow&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-1D4ED8?style=for-the-badge&amp;logo=googlecolab&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloud%20Computing-1D4ED8?style=for-the-badge&amp;logo=amazonaws&amp;logoColor=white"/>
 
 </div>
 
@@ -239,11 +239,11 @@ I hold myself to one standard: every model, dashboard, or analysis must connect 
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/muhammad-umar-490605223"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/umarali8"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="mailto:muhammadumarjamali0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.kaggle.com/umarali2005"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-<a href="https://medium.com/@muhammadumarjamali0"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/muhammad-umar-490605223"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/></a>
+<a href="https://github.com/umarali8"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white"/></a>
+<a href="mailto:muhammadumarjamali0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/></a>
+<a href="https://www.kaggle.com/umarali2005"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&amp;logo=kaggle&amp;logoColor=white"/></a>
+<a href="https://medium.com/@muhammadumarjamali0"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&amp;logo=medium&amp;logoColor=white"/></a>
 
 </div>
 
@@ -257,6 +257,6 @@ I hold myself to one standard: every model, dashboard, or analysis must connect 
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:0D1117&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:161B22,100:0D1117&amp;height=100&amp;section=footer"/>
 
 </div>
