@@ -19,12 +19,12 @@
 <br/><br/>
 
 <a href="mailto:muhammadumarjamali0@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white" height="24"/></a>
-<a href="www.linkedin.com/in/muhammad-umar-490605223"><img src="https://img.shields.io/badge/LinkedIn-333333?style=flat-square&logo=linkedin&logoColor=0A66C2" height="24"/></a>
-<a href="[[https://YOUR_PORTFOLIO_URL.com](https://github.com/umarali8)]"><img src="https://img.shields.io/badge/Portfolio-333333?style=flat-square&logo=vercel&logoColor=white" height="24"/></a>
-<a href="[https://kaggle.com/YOUR_KAGGLE](https://www.kaggle.com/umarali2005)"><img src="https://img.shields.io/badge/Kaggle-333333?style=flat-square&logo=kaggle&logoColor=20BEFF" height="24"/></a>
-<a href="[https://medium.com/@YOUR_MEDIUM](https://medium.com/@muhammadumarjamali0"><img src="https://img.shields.io/badge/Medium-333333?style=flat-square&logo=medium&logoColor=white" height="24"/></a>
+<a href="https://www.linkedin.com/in/muhammad-umar-490605223"><img src="https://img.shields.io/badge/LinkedIn-333333?style=flat-square&logo=linkedin&logoColor=0A66C2" height="24"/></a>
+<a href="https://github.com/umarali8"><img src="https://img.shields.io/badge/Portfolio-333333?style=flat-square&logo=vercel&logoColor=white" height="24"/></a>
+<a href="https://www.kaggle.com/umarali2005"><img src="https://img.shields.io/badge/Kaggle-333333?style=flat-square&logo=kaggle&logoColor=20BEFF" height="24"/></a>
+<a href="https://medium.com/@muhammadumarjamali0"><img src="https://img.shields.io/badge/Medium-333333?style=flat-square&logo=medium&logoColor=white" height="24"/></a>
 
-<sub><img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=333333&style=flat-square"/></sub>
+<sub><img src="https://komarev.com/ghpvc/?username=umarali8&label=Profile+Views&color=333333&style=flat-square"/></sub>
 
 </div>
 
@@ -239,11 +239,11 @@ I hold myself to one standard: every model, dashboard, or analysis must connect 
 
 <div align="center">
 
-<a href="www.linkedin.com/in/muhammad-umar-490605223"><img src="https://img.shields.io/badge/LinkedIn-333333?style=flat-square&logo=linkedin&logoColor=0A66C2"/></a>
-<a href="[[https://YOUR_PORTFOLIO_URL.com](https://github.com/umarali8)]"><img src="https://img.shields.io/badge/Portfolio-333333?style=flat-square&logo=vercel&logoColor=white"/></a>
-<a href="mail to:muhammadumarjamali0@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="[https://kaggle.com/YOUR_KAGGLE](https://www.kaggle.com/umarali2005)"><img src="https://img.shields.io/badge/Kaggle-333333?style=flat-square&logo=kaggle&logoColor=20BEFF"/></a>
-<a href="[https://medium.com/@YOUR_MEDIUM](https://medium.com/@muhammadumarjamali0)"><img src="https://img.shields.io/badge/Medium-333333?style=flat-square&logo=medium&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/muhammad-umar-490605223"><img src="https://img.shields.io/badge/LinkedIn-333333?style=flat-square&logo=linkedin&logoColor=0A66C2"/></a>
+<a href="https://github.com/umarali8"><img src="https://img.shields.io/badge/Portfolio-333333?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="mailto:muhammadumarjamali0@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://www.kaggle.com/umarali2005"><img src="https://img.shields.io/badge/Kaggle-333333?style=flat-square&logo=kaggle&logoColor=20BEFF"/></a>
+<a href="https://medium.com/@muhammadumarjamali0"><img src="https://img.shields.io/badge/Medium-333333?style=flat-square&logo=medium&logoColor=white"/></a>
 
 </div>
 
@@ -260,3 +260,4 @@ I hold myself to one standard: every model, dashboard, or analysis must connect 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:0D1117&height=100&section=footer"/>
 
 </div>
+
