@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:020617,40:0F172A,100:1D4ED8&amp;height=190&amp;section=header&amp;text=Muhammad%20Umar&amp;fontSize=44&amp;fontColor=F8FAFC&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Data%20Scientist%20%7C%20AI%20%26%20Machine%20Learning%20Engineer&amp;descAlignY=62&amp;descSize=18&amp;descColor=93C5FD" alt="header"/>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,100:0F172A&height=180&section=header&text=Muhammad%20Umar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%20%26%20ML%20Engineer&descAlignY=58&descSize=17)
 
 <br/>
 
@@ -257,6 +257,6 @@ I hold myself to one standard: every model, dashboard, or analysis must connect 
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:161B22,100:0D1117&amp;height=100&amp;section=footer"/>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:0D1117&height=100&section=footer)
 
 </div>
