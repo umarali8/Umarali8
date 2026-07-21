@@ -1,1 +1,63 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
 
+<defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300">
+        <stop stop-color="#020617"/>
+        <stop offset="0.5" stop-color="#0F172A"/>
+        <stop offset="1" stop-color="#1D4ED8"/>
+    </linearGradient>
+
+    <linearGradient id="text" x1="0" y1="0" x2="500" y2="0">
+        <stop stop-color="#FFFFFF"/>
+        <stop offset="1" stop-color="#93C5FD"/>
+    </linearGradient>
+</defs>
+
+<!-- Background -->
+<rect width="1200" height="300" fill="url(#bg)"/>
+
+<!-- Decorative AI/Data Network -->
+<circle cx="950" cy="80" r="60" fill="#2563EB" opacity="0.15"/>
+<circle cx="1050" cy="180" r="90" fill="#3B82F6" opacity="0.12"/>
+
+<path d="M850 120 L950 70 L1060 150 L1140 90"
+stroke="#60A5FA"
+stroke-width="2"
+opacity="0.5"/>
+
+<circle cx="850" cy="120" r="6" fill="#60A5FA"/>
+<circle cx="950" cy="70" r="6" fill="#60A5FA"/>
+<circle cx="1060" cy="150" r="6" fill="#60A5FA"/>
+
+<!-- Main Text -->
+<text x="70" y="130"
+font-family="Arial, Helvetica, sans-serif"
+font-size="52"
+font-weight="700"
+fill="url(#text)">
+Muhammad Umar
+</text>
+
+
+<!-- Subtitle -->
+<text x="75" y="180"
+font-family="Arial, Helvetica, sans-serif"
+font-size="24"
+fill="#BFDBFE">
+Data Scientist | AI &amp; Machine Learning Engineer
+</text>
+
+
+<!-- Skills -->
+<text x="75" y="225"
+font-family="Arial, Helvetica, sans-serif"
+font-size="18"
+fill="#94A3B8">
+Python • SQL • Power BI • Deep Learning • Analytics
+</text>
+
+
+<!-- Bottom line -->
+<rect x="70" y="250" width="500" height="3" fill="#2563EB"/>
+
+</svg>
