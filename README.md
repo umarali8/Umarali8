@@ -1,35 +1,47 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,100:0F172A&height=180&section=header&text=Muhammad%20Umar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%20%26%20ML%20Engineer&descAlignY=58&descSize=17)
+<img src="./assets/header.svg" width="100%" alt="Muhammad Umar - Data Scientist"/>
 
 <br/>
 
-**Data Scientist | Python · SQL · Power BI · Machine Learning · Deep Learning**
-
-*I build predictive systems and analytics products that turn data into measurable business outcomes.*
+<b>Data Scientist | Python · SQL · Power BI · Machine Learning · Deep Learning</b>
 
 <br/>
 
-<img src="https://img.shields.io/badge/PYTHON-2E3440?style=flat-square&amp;logo=python&amp;logoColor=3776AB" height="26"/>
-<img src="https://img.shields.io/badge/SQL-2E3440?style=flat-square&amp;logo=postgresql&amp;logoColor=4169E1" height="26"/>
-<img src="https://img.shields.io/badge/POWER%20BI-2E3440?style=flat-square&amp;logo=powerbi&amp;logoColor=F2C811" height="26"/>
-<img src="https://img.shields.io/badge/TENSORFLOW-2E3440?style=flat-square&amp;logo=tensorflow&amp;logoColor=FF6F00" height="26"/>
-<img src="https://img.shields.io/badge/SCIKIT--LEARN-2E3440?style=flat-square&amp;logo=scikitlearn&amp;logoColor=F7931E" height="26"/>
+<i>
+I build predictive systems and analytics products that turn data into measurable business outcomes.
+</i>
 
 <br/><br/>
 
-<a href="mailto:muhammadumarjamali0@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=flat-square&amp;logo=gmail&amp;logoColor=white" height="24"/></a>
-<a href="https://www.linkedin.com/in/muhammad-umar-490605223"><img src="https://img.shields.io/badge/LinkedIn-333333?style=flat-square&amp;logo=linkedin&amp;logoColor=0A66C2" height="24"/></a>
-<a href="https://github.com/umarali8"><img src="https://img.shields.io/badge/Portfolio-333333?style=flat-square&amp;logo=vercel&amp;logoColor=white" height="24"/></a>
-<a href="https://www.kaggle.com/umarali2005"><img src="https://img.shields.io/badge/Kaggle-333333?style=flat-square&amp;logo=kaggle&amp;logoColor=20BEFF" height="24"/></a>
-<a href="https://medium.com/@muhammadumarjamali0"><img src="https://img.shields.io/badge/Medium-333333?style=flat-square&amp;logo=medium&amp;logoColor=white" height="24"/></a>
+<img src="https://img.shields.io/badge/PYTHON-2E3440?style=flat-square&logo=python&logoColor=3776AB" height="26"/>
+<img src="https://img.shields.io/badge/POWER%20BI-2E3440?style=flat-square&logo=powerbi&logoColor=F2C811" height="26"/>
+<img src="https://img.shields.io/badge/TENSORFLOW-2E3440?style=flat-square&logo=tensorflow&logoColor=FF6F00" height="26"/>
+<img src="https://img.shields.io/badge/SCIKIT--LEARN-2E3440?style=flat-square&logo=scikitlearn&logoColor=F7931E" height="26"/>
 
-<sub><img src="https://komarev.com/ghpvc/?username=umarali8&amp;label=Profile+Views&amp;color=333333&amp;style=flat-square"/></sub>
+<br/><br/>
+
+<a href="mailto:muhammadumarjamali0@gmail.com">
+<img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/muhammad-umar-490605223">
+<img src="https://img.shields.io/badge/LinkedIn-333333?style=flat-square&logo=linkedin&logoColor=0A66C2"/>
+</a>
+
+<a href="https://www.kaggle.com/umarali2005">
+<img src="https://img.shields.io/badge/Kaggle-333333?style=flat-square&logo=kaggle&logoColor=20BEFF"/>
+</a>
+
+<a href="https://medium.com/@muhammadumarjamali0">
+<img src="https://img.shields.io/badge/Medium-333333?style=flat-square&logo=medium&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=umarali8&label=Profile+Views&color=333333&style=flat-square"/>
 
 </div>
-
-<br/>
-
 ---
 
 ## 👋 About
@@ -257,6 +269,6 @@ I hold myself to one standard: every model, dashboard, or analysis must connect 
 
 <br/>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:0D1117&height=100&section=footer)
+<img src="./assets/footer.svg" width="100%" />
 
 </div>
