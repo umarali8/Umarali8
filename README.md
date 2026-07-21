@@ -32,7 +32,7 @@
 
 ---
 
-## About
+## 👋 About
 
 I am a Data Scientist focused on translating ambiguous business problems into structured, data-driven solutions. My work spans the full analytics lifecycle — from raw data acquisition and cleaning, through statistical modeling and machine learning, to executive-facing reporting.
 
@@ -53,7 +53,7 @@ I hold myself to one standard: every model, dashboard, or analysis must connect 
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <table width="100%">
 <tr><td width="18%"><b>Programming</b></td><td>
@@ -105,7 +105,7 @@ I hold myself to one standard: every model, dashboard, or analysis must connect 
 
 ---
 
-## Areas of Expertise
+## 🎯 Areas of Expertise
 
 | Domain | Description |
 |---|---|
@@ -121,7 +121,7 @@ I hold myself to one standard: every model, dashboard, or analysis must connect 
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 <details open>
 <summary><b>Sales Analytics Dashboard</b></summary>
@@ -182,7 +182,7 @@ I hold myself to one standard: every model, dashboard, or analysis must connect 
 
 ---
 
-## GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -204,7 +204,7 @@ I hold myself to one standard: every model, dashboard, or analysis must connect 
 
 ---
 
-## Certifications
+## 📜 Certifications
 
 | Certification | Issuer |
 |---|---|
@@ -218,16 +218,16 @@ I hold myself to one standard: every model, dashboard, or analysis must connect 
 
 ---
 
-## Current Focus
+## 🔭 Current Focus
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Generative%20AI-2E3440?style=flat-square"/>
-<img src="https://img.shields.io/badge/Large%20Language%20Models-2E3440?style=flat-square"/>
-<img src="https://img.shields.io/badge/AI%20Agents-2E3440?style=flat-square"/>
-<img src="https://img.shields.io/badge/MLOps-2E3440?style=flat-square"/>
-<img src="https://img.shields.io/badge/NLP-2E3440?style=flat-square"/>
-<img src="https://img.shields.io/badge/Cloud%20Computing-2E3440?style=flat-square"/>
+<img src="https://img.shields.io/badge/Generative%20AI-1D4ED8?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Large%20Language%20Models-1D4ED8?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20Agents-1D4ED8?style=for-the-badge&logo=robotframework&logoColor=white"/>
+<img src="https://img.shields.io/badge/MLOps-1D4ED8?style=for-the-badge&logo=mlflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-1D4ED8?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloud%20Computing-1D4ED8?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
 </div>
 
@@ -235,15 +235,15 @@ I hold myself to one standard: every model, dashboard, or analysis must connect 
 
 ---
 
-## Connect
+## 🤝 Connect
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/muhammad-umar-490605223"><img src="https://img.shields.io/badge/LinkedIn-333333?style=flat-square&logo=linkedin&logoColor=0A66C2"/></a>
-<a href="https://github.com/umarali8"><img src="https://img.shields.io/badge/Portfolio-333333?style=flat-square&logo=vercel&logoColor=white"/></a>
-<a href="mailto:muhammadumarjamali0@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://www.kaggle.com/umarali2005"><img src="https://img.shields.io/badge/Kaggle-333333?style=flat-square&logo=kaggle&logoColor=20BEFF"/></a>
-<a href="https://medium.com/@muhammadumarjamali0"><img src="https://img.shields.io/badge/Medium-333333?style=flat-square&logo=medium&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/muhammad-umar-490605223"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/umarali8"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="mailto:muhammadumarjamali0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.kaggle.com/umarali2005"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+<a href="https://medium.com/@muhammadumarjamali0"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
 
 </div>
 
@@ -260,4 +260,3 @@ I hold myself to one standard: every model, dashboard, or analysis must connect 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:0D1117&height=100&section=footer"/>
 
 </div>
-
